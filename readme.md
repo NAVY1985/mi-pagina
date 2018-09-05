@@ -12,6 +12,8 @@ Kate Von D make-up página responsive donde se hace uso de la grid y media queri
 
 [Laboratoria](http://laboratoria.la)
 
+![alt text](assets/images/laboratoria.png)
+
 ***
 
 ### RETO
@@ -39,4 +41,3 @@ El diseño lo puedes realizar como mejor te parezca, pero debes mantener la estr
 
 ***
 
-![alt text](assets/images/laboratoria.png)
