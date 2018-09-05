@@ -1,11 +1,16 @@
 # MI PAGINA
 
-Kate Von D make-up página responsive donde se hace uso de la grid.
+Kate Von D make-up página responsive donde se hace uso de la grid y media queries.
+
+
+![katvon](https://user-images.githubusercontent.com/37165809/45065329-2f41a800-b07e-11e8-9f65-e15466386bdb.jpg)
+
 
 ***
 
-![alt text](assets/images/katVon.jpg)
+## DESARROLLADO PARA:
 
+[Laboratoria](http://laboratoria.la)
 
 ***
 
@@ -24,15 +29,14 @@ El diseño lo puedes realizar como mejor te parezca, pero debes mantener la estr
 
 + CSS 3
 
-***
-
-### ELABORADO PARA:
-
-![alt text](assets/images/laboratoria.png)
-
++ Media Queries
 
 ***
 
 ### ELABORADO POR:
 
 * Nadya Salazar alias **Navy**
+
+***
+
+![alt text](assets/images/laboratoria.png)
